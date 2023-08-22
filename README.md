@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math, Music, Visual Arts, Universal Basic Income and two very specific blockchain projects (Bitcoin and Gridcoin)
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on a cool multi-media project (Csound, Haskell / PureScript, Rust, Webassembly, Javascript / HTML / CSS / SVG ...), beginning as a hobby but rapidely generating lots of money 😎
-- 📫 How to reach me : ebmtranceboy on twitter or github (my other repository) 
+- 📫 How to reach me : zeepity on twitter or github/ebmtranceboy (my other repository) 
 
 <!---
 preuve/preuve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
